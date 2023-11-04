@@ -46,7 +46,7 @@ export default function Hero() {
                             </svg>
                         </a>
                         <br/>
-                        <a href="https://drive.google.com/file/d/1RVWWjWBYZ6Hsil1WP-GZBqixzoTDbY8i/view?usp=sharing" className="fw-bold text-decoration-none change-my-color2" target="_blank" rel="noopener noreferrer">Download
+                        <a href="https://drive.google.com/file/d/16JnE8WDYglUbDEjS-aFLgQ6NMzuBFzAH/view?usp=sharing" className="fw-bold text-decoration-none change-my-color2" target="_blank" rel="noopener noreferrer">Download
                             <span className="color-acsent download"> Curriculum
                                 Vitae</span></a>
                     </div>
