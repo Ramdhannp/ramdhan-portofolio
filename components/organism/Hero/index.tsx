@@ -18,7 +18,7 @@ export default function Hero() {
                     <h1 className="fw-bold mb-4">I Am <span className="color-acsent">Ramdhan N P</span></h1>
                     <p>Siap bekerja sebagai Full Stack Developer<br/>
                         Menguasai Ekosistem Javascript <span className="fw-bold color-acsent">MERN Stack</span></p>
-                    <a className="btn btn-custom1 my-1 mt-2" href='https://wa.me/089621253726' target="_blank" rel="noopener noreferrer">Lets Talk <svg className="ms-1 arrow"
+                    <a className="btn btn-custom1 my-1 mt-2" href='https://wa.me/+6289621253726' target="_blank" rel="noopener noreferrer">Lets Talk <svg className="ms-1 arrow"
                             xmlns="http://www.w3.org/2000/svg" width="20" viewBox="0 0 38.044 31.65">
                             <g id="right-arrow" transform="translate(0 -41.346)">
                                 <g id="Group_23" data-name="Group 23" transform="translate(0 41.346)">
