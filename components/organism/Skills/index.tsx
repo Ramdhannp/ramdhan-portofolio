@@ -168,8 +168,8 @@ export default function Skills() {
                                     </svg>
                                 </div>
                                 <div className="col-12 pt-3 text-white">
-                                    <h2 className="text-center text-md-start fw-bold">Full Stack<br/>Developer</h2>
-                                    <p className="text-center text-md-start">Mampu bekerja secara Full Stack menggunakan teknologi MERN. MongoDB, Express JS, React JS, dan Next JS</p>
+                                    <h2 className="text-center text-md-start fw-bold">Mobile App<br/>Developer</h2>
+                                    <p className="text-center text-md-start">Mampu membuat aplikasi mobile menggunakan React Native, Typescript dan Tailwind CSS</p>
                                 </div>
                             </div>
                         </div>

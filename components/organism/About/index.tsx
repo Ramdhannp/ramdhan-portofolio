@@ -13,8 +13,8 @@ export default function About() {
                             <p className="text-center color-acsent fw-bold"> Setiap kesulitan selalu ada kemudahan. Setiap masalah pasti ada solusi</p>
                         </div>
                         <div className="col-12">
-                            <p className="text-center fw-light">Perkenalkan nama saya Ramdhan, mampu bekerja secara
-                                individu maupun berkolaborasi dengan tim, bekerja dengan cepat, dan siap bekerja sebagai <span className="fw-bold">Full Stack Developer</span> dengan keahlian menggunakan ekosistem Javascript. <span className="fw-bold">Memiliki Pengalaman magang sebagai Frontend Web Developer.</span> Cepat dalam belajar, selalu up to date terhadap perkembangan teknologi, memiliki rasa ingin tahu yang tinggi. Sedang dan selalu mencari ilmu untuk terus bertumbuh dan mengembangkan keahlian dalam bidang IT. </p>
+                            <p className="text-center fw-light">Umur saya 23 tahun, mampu bekerja secara
+                                individu maupun berkolaborasi dengan tim, bekerja dengan cepat, dan siap bekerja sebagai <span className="fw-bold">Software Engineer</span> dengan keahlian menggunakan ekosistem Javascript. <span className="fw-bold">Memiliki Pengalaman magang sebagai Frontend Web Developer.</span> Cepat dalam belajar, selalu up to date terhadap perkembangan teknologi, memiliki rasa ingin tahu yang tinggi. Sedang dan selalu mencari ilmu untuk terus bertumbuh dan mengembangkan keahlian dalam bidang IT. </p>
                         </div>
                     </div>
                 </div>
