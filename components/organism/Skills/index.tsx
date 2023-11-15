@@ -18,6 +18,7 @@ export default function Skills() {
                     </div>
                     <div className="photo col-lg-7 col-md-12 text-center mt-4">
                         <img src="/img/MongoDB.png" alt="" />
+                        <img src="/img/react-native.png" alt="" />
                         <img src="/img/express js.png" alt="" />
                         <img src="/img/reactjs.png" alt="" />
                         <img src="/img/nodejs.png" alt="" />
